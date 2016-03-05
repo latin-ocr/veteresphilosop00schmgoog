@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veteresphilosop00schmgoog_0009.png"; bbox 0 0 3509 5067; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 68 3706 243 4706">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 68 3706 243 4706">
+     <span class='ocr_line' id='line_1_1' title="bbox 68 3706 243 4706; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 68 4523 181 4706; x_wconf 58' lang='lat' dir='ltr'>“t-‘⁴</span> <span class='ocrx_word' id='word_1_2' title='bbox 85 4330 186 4497; x_wconf 54' lang='lat'>-72</span> <span class='ocrx_word' id='word_1_3' title='bbox 91 3925 205 4184; x_wconf 54' lang='lat' dir='ltr'>stlat„</span> <span class='ocrx_word' id='word_1_4' title='bbox 143 3706 243 3903; x_wconf 42' lang='grc' dir='ltr'>,υἷ’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 705 1973 2687 2082">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 705 1973 2687 2082">
+     <span class='ocr_line' id='line_1_2' title="bbox 705 1973 2687 2082; baseline 0 -2"><span class='ocrx_word' id='word_1_5' title='bbox 705 1973 1756 2082; x_wconf 81' lang='lat' dir='ltr'><strong>SIGOFREDO</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1834 1974 2687 2081; x_wconf 84' lang='lat' dir='ltr'>SVDHAVS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 842 2319 2583 2428">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 842 2319 2583 2428">
+     <span class='ocr_line' id='line_1_3' title="bbox 842 2319 2583 2428; baseline -0.001 -1"><span class='ocrx_word' id='word_1_7' title='bbox 842 2319 1425 2428; x_wconf 85' lang='lat' dir='ltr'><strong>PAVLO</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1500 2320 2583 2427; x_wconf 85' lang='lat' dir='ltr'><strong>WENDLAND</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

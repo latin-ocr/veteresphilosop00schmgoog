@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veteresphilosop00schmgoog_0007.png"; bbox 0 0 3509 5067; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 709 1962 2690 2071">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 709 1962 2690 2071">
+     <span class='ocr_line' id='line_1_1' title="bbox 709 1962 2690 2071; baseline 0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 709 1962 1760 2071; x_wconf 81' lang='lat' dir='ltr'><strong>SIGOFREDO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1837 1964 2690 2071; x_wconf 81' lang='lat' dir='ltr'>SVDHAVS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 845 2308 2586 2417">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 845 2308 2586 2417">
+     <span class='ocr_line' id='line_1_2' title="bbox 845 2308 2586 2417; baseline 0 -2"><span class='ocrx_word' id='word_1_3' title='bbox 845 2308 1428 2417; x_wconf 82' lang='lat' dir='ltr'><strong>PAVLO</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1503 2309 2586 2416; x_wconf 85' lang='lat' dir='ltr'><strong>WENDLAND</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
